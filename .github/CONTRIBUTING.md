@@ -1,15 +1,15 @@
 # Contributing
-Hi! Thanks for your interest in helping contribute to my mod! Please make sure to read the [README](https://github.com/ash-development/storage-dimension/issues) for an overview of the project. A big note before we continue is to please make sure you are using [Gitmoji](https://gitmoji.dev) when creating commits.
+Hi! Thanks for your interest in helping contribute to my mod! Please make sure to read the [README](https://github.com/ash-development/REPO/issues) for an overview of the project. A big note before we continue is to please make sure you are using [Gitmoji](https://gitmoji.dev) when creating commits.
 
 ### Issues
 
 #### Create a new issue
 
-If you spot a problem, [search if an issue already exists](https://github.com/ash-development/storage-dimension/issues). If a related issue doesn't exist, you can open a new issue using a relevant [issue form](https://github.com/ash-development/storage-dimension/issues/new/choose).
+If you spot a problem, [search if an issue already exists](https://github.com/ash-development/REPO/issues). If a related issue doesn't exist, you can open a new issue using a relevant [issue form](https://github.com/ash-development/REPO/issues/new/choose).
 
 #### Solve an issue
 
-Scan through our [existing issues](https://github.com/ash-development/storage-dimension/issues) to find one that interests you. You can narrow down the search using `labels` as filters. See "[Label reference](https://docs.github.com/en/contributing/collaborating-on-github-docs/label-reference)" for more information. Feel free to speak up and we'll be happy to assign the issue to ya. If you find an issue to work on, you are welcome to open a PR with a fix.
+Scan through our [existing issues](https://github.com/ash-development/REPO/issues) to find one that interests you. You can narrow down the search using `labels` as filters. See "[Label reference](https://docs.github.com/en/contributing/collaborating-on-github-docs/label-reference)" for more information. Feel free to speak up and we'll be happy to assign the issue to ya. If you find an issue to work on, you are welcome to open a PR with a fix.
 
 ### Pull Request
 
